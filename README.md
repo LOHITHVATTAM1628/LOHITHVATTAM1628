@@ -78,6 +78,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="langgraph logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="huggingface logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecolab" height="40" alt="googlecolab logo"  />
 </div>
 
 ###
